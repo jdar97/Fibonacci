@@ -1,13 +1,13 @@
-#Description
+# Description
 This Fibonacci Calculator is a Python program that offers multiple functionalities related to the Fibonacci sequence and the Golden Ratio. Users can choose from various options, including generating a Fibonacci sequence, finding a specific number in the sequence, and calculating the Golden Ratio using Fibonacci numbers.
 
-#Features
+# Features
 -Learn about the Fibonacci Sequence and the Golden Ratio
 -Generate a Fibonacci Sequence
 -Find a Specific Number in the Fibonacci Sequence
 -Calculate the Golden Ratio
 
-#How to Use
+# How to Use
 Run the Program: Execute the Python script to start the calculator.
 
 Select an Option: Choose from the available options by entering the corresponding number:
@@ -24,7 +24,7 @@ Select an Option: Choose from the available options by entering the correspondin
 
 Follow Prompts: Input the required values based on your selected option.
 
-#Code Overview
+# Code Overview
 Here is a brief description of each function:
 
 more_info()
@@ -42,7 +42,7 @@ Calculates the Golden Ratio by dividing two consecutive Fibonacci numbers at the
 goodbye()
 Displays a goodbye message and exits the program.
 
-#Example Usage
+# Example Usage
 python
  Run the program
  Example output:
@@ -54,5 +54,3 @@ python
  3) Calculate Golden Ratio
  4) Exit
 When a valid option is selected and completed, the program will ask if you would like to perform another calculation. Enter "yes" to continue or "no" to exit the program.
-
-Feel free to customize the README further based on your preferences or additional features. Let me know if you need more help or have any questions!
